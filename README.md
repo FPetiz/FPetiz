@@ -15,7 +15,4 @@
 </div>
 -->
 
-<!--
-![Snake animation](https://github.com/FPetiz/FPetiz/blob/output/github-contribution-grid-snake.svg)
 
--->
